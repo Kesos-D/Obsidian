@@ -2,6 +2,8 @@
 
 Es un sistema administrador de base de datos, desarrollador por Microsoft, su principal objetivo es la manipulación de los datos, y el resguardo de estos.
 
+(Hice un cambio)
+
 Además de usar [[T-SQL]] para comunicarse a la base de datos mediante [[DML (Data Manipulation Langauge)]], esta extension es unica para este gestor de base de datos.
 
 ---
