@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "131a93fb255ca402",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e058bea8c6b7f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89963d8d17566088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a64e01d76b62580c",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c52d06ceb68b63",
+        "type": "tabs",
+        "dimension": 73.62318840579711,
+        "children": [
+          {
+            "id": "178a69295a7c46b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "545dd384ed82feac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "af17c8357fc074a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f306a877fa516947",
+        "type": "tabs",
+        "dimension": 26.3768115942029,
+        "children": [
+          {
+            "id": "ee8937f5baa70c59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5758c17d0791fc83",
+    "type": "split",
+    "children": [
+      {
+        "id": "574dc5bedb1b6496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79101826cfdedde9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "9eab18a0f245e330",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "19413dce665c13e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4e71a2a765329e75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a40a674e0ce3fa40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "89963d8d17566088",
+  "lastOpenFiles": [
+    "SQLServer Arquitectura.md",
+    "SQL Server.md",
+    "Optimización de Consultas SQL.md",
+    "DML (Data Manipulation Langauge).md",
+    "Gestion de Usuarios.md",
+    "DQL.md",
+    "2026-09-26.md",
+    "Sin título.base",
+    "Capa_Protocolo/Named Pipes.md",
+    "Sin título.canvas",
+    "Capa_Protocolo/TCP-IP.md",
+    "TCP/IP.md",
+    "TCP",
+    "Capa_Protocolo/Memoria Compartida.md",
+    "Capa_Protocolo",
+    "Bienvenido.md",
+    "cree un enlace.md"
+  ]
+}

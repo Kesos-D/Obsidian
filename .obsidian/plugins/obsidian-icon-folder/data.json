@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSquareLibrary",
+      "LiDatabase",
+      "LiArchive",
+      "LiMemoryStick",
+      "LiAlignJustify"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "SQLServer Arquitectura.md": "LiArchive",
+  "Gestion de Usuarios.md": "LiUser",
+  "Optimización de Consultas SQL.md": "LiArrowBigUpDash",
+  "Capa_Protocolo": "LiAlignJustify",
+  "Capa_Protocolo/Memoria Compartida.md": "LiMemoryStick",
+  "SQL Server.md": "LiDatabase",
+  "DML (Data Manipulation Langauge).md": "LiSquareLibrary"
+}
