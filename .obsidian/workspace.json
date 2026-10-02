@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "080a4d3de1849b05",
+        "id": "f345367df64c5e00",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7b6784004ec409",
+            "id": "9c8e31a82bc97923",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "SQL Server"
             }
-          },
-          {
-            "id": "7bdf004a1aab04e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporal.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Temporal"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +33,7 @@
       {
         "id": "45c52d06ceb68b63",
         "type": "tabs",
-        "dimension": 73.62318840579711,
+        "dimension": 65.34749034749035,
         "children": [
           {
             "id": "178a69295a7c46b8",
@@ -98,12 +83,12 @@
         ]
       },
       {
-        "id": "f306a877fa516947",
+        "id": "a512a624750b41c5",
         "type": "tabs",
-        "dimension": 26.3768115942029,
+        "dimension": 34.65250965250965,
         "children": [
           {
-            "id": "ee8937f5baa70c59",
+            "id": "db0ce8ae453a7b2a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -209,27 +194,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Crear nueva base": false
     }
   },
-  "active": "7bdf004a1aab04e9",
+  "active": "9c8e31a82bc97923",
   "lastOpenFiles": [
+    "DDL (Data Definition Language).md",
     "SQL Server.md",
-    "Temporal.md",
     "SQLServer Arquitectura.md",
-    "Instalación personalizada.md",
-    "DML (Data Manipulation Langauge).md",
-    "Optimización de Consultas SQL.md",
+    "Temporal.md",
     "Gestion de Usuarios.md",
-    "Instalación avanzada.md",
+    "DML (Data Manipulation Langauge).md",
     "DQL.md",
+    "Instalación personalizada.md",
+    "Optimización de Consultas SQL.md",
     "2026-09-26.md",
     "Sin título.base",
     "Capa_Protocolo/Named Pipes.md",
